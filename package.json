@@ -1,0 +1,19 @@
+{
+  "name": "ts-mini-chat",
+  "version": "1.0.0",
+  "description": "Um chat simples utilizando socket.io",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "nodemon src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
